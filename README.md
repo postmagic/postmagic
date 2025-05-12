@@ -11,4 +11,4 @@ PostMagic allows you to create a custom page where you can showcase your Instagr
 `PostMagic Dashboard Mockup soon`
 
 
-[Get Notified when we launch](https://google.com)
+[Get Notified on launch](https://google.com)
