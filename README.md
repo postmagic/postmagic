@@ -8,7 +8,7 @@ PostMagic allows you to create a custom page where you can showcase your Instagr
 ![PostMagic Mockup Gif](https://raw.githubusercontent.com/postmagic/postmagic/refs/heads/main/1000111751.gif)
 
 
-'PostMagic Dashboard Mockup soon'
+`PostMagic Dashboard Mockup soon`
 
 
 [Get Notified when we launch](https://google.com)
